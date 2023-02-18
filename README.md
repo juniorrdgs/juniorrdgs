@@ -2,5 +2,5 @@
 
 
 - 🔭 Atualmente trabalhando em Front-End
-- 🌱 Atualmente aprendendo Javascript, React, Next, PHP, Laravel
+- 🌱 Atualmente aprendendo Javascript, API, ReactJs, React Native, NextJs, NodeJs
 - 😄 Pronouns: ele/dele
